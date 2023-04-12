@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is FajarMelfiano and I'm a kang recode, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is FajarMelfiano and I'm a student, from Indonesia</h2>
 
 ###
 
@@ -44,7 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/F/F/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/F/F/blob/output/snake.svg" alt="Animation" />
 
 ###
-Profile Readme Generator
